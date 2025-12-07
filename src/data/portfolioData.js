@@ -107,7 +107,7 @@ export const portfolioData = {
             id: 4,
             title: "Freelance BOT",
             description: "An automation bot designed to handle freelance workflow tasks, showcasing scripting and process automation capabilities.",
-            tech: ["Python", "Selenium"],
+            tech: ["Python", "Selenium", "Flask"],
             repoLink: "https://github.com/deiaamohamed/freelance_BOT", // Placeholder
             icon: FaRobot,
             color: "#ca8a04" // Yellow
