@@ -22,7 +22,7 @@ export const portfolioData = {
         },
         {
             platform: "Email",
-            url: "mailto:deiaa.mohamed@gmail.com",
+            url: "mailto:deiaa100@gmail.com",
             icon: FaEnvelope
         }
     ],
