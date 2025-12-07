@@ -38,7 +38,7 @@ export const portfolioData = {
         "Automation-ChatBot",
         "Game Development-Unity",
         "Machine Learning Basics",
-        "AI Coding Editors (Cursor, Antigravity)",
+        "AI Coding Editors (Cursor, Antigravity, Copilot)",
         "Linux",
         "Redhat-1",
 
