@@ -69,7 +69,7 @@ export const portfolioData = {
             id: 10,
             title: "Pixel Palace",
             description: "A digital game store platform inspired by Steam and Epic Games, featuring game listings and user management.",
-            tech: ["C#", ".NET MVC", "SQL Server"],
+            tech: ["C#", ".NET MVC", "SQL Server", "Web Application"],
             repoLink: "https://github.com/deiaamohamed/Pixel-Palace", // Placeholder
             icon: FaStore,
             color: "#ec4899" // Pink-500
@@ -78,7 +78,7 @@ export const portfolioData = {
             id: 1,
             title: "HealthSync Manager",
             description: "A comprehensive hospital management system for handling patient records, appointments, and staff coordination.",
-            tech: ["C#", "WPF", "SQL Server"],
+            tech: ["C#", "WPF", "SQL Server", "Desktop Application"],
             repoLink: "https://github.com/deiaamohamed/Hospital_Management_System", // Placeholder
             icon: FaHeartbeat,
             color: "#ef4444" // Red-500
@@ -126,7 +126,7 @@ export const portfolioData = {
             title: "American Sign Language",
             description: "An AI/ML project that recognizes hand signs using computer vision, aiming to improve accessibility.",
             tech: ["Python", "OpenCV", "TensorFlow"],
-            repoLink: "https://github.com/deiaa-mohamed/asl-recognition", // Placeholder
+            repoLink: "https://github.com/deiaamohamed/AmericanSignLangauge", // Placeholder
             icon: FaHandsHelping,
             color: "#fb923c" // Orange
         },
