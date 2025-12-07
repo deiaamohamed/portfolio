@@ -8,7 +8,7 @@ export const portfolioData = {
     title: "Software Engineer",
     bio: "A passionate Software Engineer with expertise in building scalable web applications, automation scripts, and interactive systems. I love turning complex problems into simple, elegant solutions using modern technologies.",
     longBio: "I am a dedicated software engineer with a strong foundation in computer science currently participating in the Open-Source track at ITI. My journey involves mastering various technologies to build robust applications that solve real-world problems. I have a competitive coding background, having ranked 30th out of 120 teams in ECPC 2022.",
-    email: "deiaa.mohamed@gmail.com",
+    email: "deiaa100@gmail.com",
     socialLinks: [
         {
             platform: "GitHub",
